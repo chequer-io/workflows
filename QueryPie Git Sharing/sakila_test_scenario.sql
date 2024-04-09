@@ -32,4 +32,6 @@ USE sakila;
 
   SELECT country_id, country
   FROM country
-  WHERE country IN ('Afghanistan', 'Bangladesh', 'China');
+  WHERE country IN ('Afghanistan', 'Bangladesh', 'China'); 
+
+  SELECT 1;
