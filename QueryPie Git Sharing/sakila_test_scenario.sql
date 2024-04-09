@@ -34,4 +34,3 @@ USE sakila;
   FROM country
   WHERE country IN ('Afghanistan', 'Bangladesh', 'China'); 
 
-  SELECT 1;
