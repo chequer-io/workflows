@@ -1,3 +1,3 @@
 use sakila;
 
-update actor set first_name = 'Ella' where actor_id=1;
+update actor set first_name = 'Daniel' where actor_id=1;
